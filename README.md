@@ -11,7 +11,8 @@
 ![man_astronaut_animated_default](https://github.com/user-attachments/assets/2fe06080-cc02-4cd2-880b-a92390ac8339)
 ![man_golfing_animated_default](https://github.com/user-attachments/assets/80d8021a-ee1b-47d4-9c7a-85ec14ba566e)
 ![man_juggling_animated_default](https://github.com/user-attachments/assets/798070d7-c43d-4f83-b766-b21e58f4d018)
-![man_surfing_animated_default](https://github.com/user-attachments/assets/4d577a40-289b-423b-81a9-15ee3caa![monkey_face_animated](https://github.com/user-attachments/assets/276181a7-5bca-4ec6-b72f-7a4be2330e95)
+![man_surfing_animated_default](https://github.com/user-attachments/assets/4d577a40-289b-423b-81a9-15ee3caa
+![monkey_face_animated](https://github.com/user-attachments/assets/276181a7-5bca-4ec6-b72f-7a4be2330e95)
 f1d4)![monkey_animated](https://github.com/user-attachments/assets/a8f691b5-5f6a-422e-8b2a-2804a9edb42e)
 ![moose_animated](https://github.com/user-attachments/assets/1a4cff2c-b024-4c3a-b106-d6d642016472)
 
