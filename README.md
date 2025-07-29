@@ -62,14 +62,7 @@
 
 ---
 
-## 🎉 Fun Zone
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="100" />
-</p>
 
 - 🪄 *If you got here, send me your favorite meme via PR!*
 - ☕ Buy me a coffee: [ko-fi.com/ez0000001000000](https://ko-fi.com/ez0000001000000)
