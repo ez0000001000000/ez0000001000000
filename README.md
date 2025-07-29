@@ -104,3 +104,102 @@ This project is open source and available under the MIT License.
 
 <!-- Snake Animation (fun) --> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"> </p>
 <!-- Footer --> <p align="center"> <b>Thanks for visiting! ⭐️</b> </p> <!-- Hidden message for fun --> <details> <summary>✨ Click here for a secret pro tip!</summary> <p> <code>git commit -m "Make it awesome!"</code> </p> </details> ```
+# 🏆 The Ultimate Tech Stack Table
+
+## 🚀 Programming Languages
+
+| HTML | CSS | JS | TS | Python | Java | C | C++ | C# | Go | Rust | PHP | Ruby | Swift | Kotlin | Scala | Haskell | Elixir | Perl | Lua | R | MATLAB | Fortran | Pascal | VBA | Solidity | Dart | Objective-C |
+|------|-----|----|----|--------|------|---|-----|----|----|------|-----|------|-------|--------|-------|---------|--------|------|-----|---|--------|---------|--------|-----|----------|------|-------------|
+| ![](https://skillicons.dev/icons?i=html) | ![](https://skillicons.dev/icons?i=css) | ![](https://skillicons.dev/icons?i=js) | ![](https://skillicons.dev/icons?i=ts) | ![](https://skillicons.dev/icons?i=python) | ![](https://skillicons.dev/icons?i=java) | ![](https://skillicons.dev/icons?i=c) | ![](https://skillicons.dev/icons?i=cpp) | ![](https://skillicons.dev/icons?i=cs) | ![](https://skillicons.dev/icons?i=go) | ![](https://skillicons.dev/icons?i=rust) | ![](https://skillicons.dev/icons?i=php) | ![](https://skillicons.dev/icons?i=ruby) | ![](https://skillicons.dev/icons?i=swift) | ![](https://skillicons.dev/icons?i=kotlin) | ![](https://skillicons.dev/icons?i=scala) | ![](https://skillicons.dev/icons?i=haskell) | ![](https://skillicons.dev/icons?i=elixir) | ![](https://skillicons.dev/icons?i=perl) | ![](https://skillicons.dev/icons?i=lua) | ![](https://skillicons.dev/icons?i=r) | ![](https://skillicons.dev/icons?i=matlab) | ![](https://skillicons.dev/icons?i=fortran) | ![](https://skillicons.dev/icons?i=pascal) | ![](https://skillicons.dev/icons?i=vba) | ![](https://skillicons.dev/icons?i=solidity) | ![](https://skillicons.dev/icons?i=dart) | ![](https://skillicons.dev/icons?i=objectivec) |
+
+---
+
+## 🌐 Web & Frontend
+
+| React | Next.js | Vue | Nuxt | Angular | Svelte | Astro | Redux | Tailwind | Bootstrap | Sass | Material UI | Styled Components | Emotion | Three.js | Chart.js | D3.js | SolidJS |
+|-------|--------|-----|------|---------|--------|-------|-------|----------|-----------|------|-------------|-------------------|---------|----------|----------|-------|---------|
+| ![](https://skillicons.dev/icons?i=react) | ![](https://skillicons.dev/icons?i=nextjs) | ![](https://skillicons.dev/icons?i=vue) | ![](https://skillicons.dev/icons?i=nuxtjs) | ![](https://skillicons.dev/icons?i=angular) | ![](https://skillicons.dev/icons?i=svelte) | ![](https://skillicons.dev/icons?i=astro) | ![](https://skillicons.dev/icons?i=redux) | ![](https://skillicons.dev/icons?i=tailwind) | ![](https://skillicons.dev/icons?i=bootstrap) | ![](https://skillicons.dev/icons?i=sass) | ![](https://skillicons.dev/icons?i=materialui) | ![](https://skillicons.dev/icons?i=styledcomponents) | ![](https://skillicons.dev/icons?i=emotion) | ![](https://skillicons.dev/icons?i=threejs) | ![](https://skillicons.dev/icons?i=chartjs) | ![](https://skillicons.dev/icons?i=d3) | ![](https://skillicons.dev/icons?i=solidjs) |
+
+---
+
+## 🖥️ Backend & API
+
+| Node.js | Express | NestJS | Deno | Fastify | Flask | Django | FastAPI | Spring | Dotnet | Laravel | Symfony | Ruby on Rails | Go | Gin | Fiber | Phoenix | ASP.NET |
+|---------|---------|--------|------|---------|-------|--------|---------|--------|--------|---------|---------|---------------|----|-----|-------|---------|---------|
+| ![](https://skillicons.dev/icons?i=nodejs) | ![](https://skillicons.dev/icons?i=express) | ![](https://skillicons.dev/icons?i=nestjs) | ![](https://skillicons.dev/icons?i=deno) | ![](https://skillicons.dev/icons?i=fastify) | ![](https://skillicons.dev/icons?i=flask) | ![](https://skillicons.dev/icons?i=django) | ![](https://skillicons.dev/icons?i=fastapi) | ![](https://skillicons.dev/icons?i=spring) | ![](https://skillicons.dev/icons?i=dotnet) | ![](https://skillicons.dev/icons?i=laravel) | ![](https://skillicons.dev/icons?i=symfony) | ![](https://skillicons.dev/icons?i=rails) | ![](https://skillicons.dev/icons?i=go) | ![](https://skillicons.dev/icons?i=gin) | ![](https://skillicons.dev/icons?i=fiber) | ![](https://skillicons.dev/icons?i=phoenix) | ![](https://skillicons.dev/icons?i=dotnet) |
+
+---
+
+## 🗄️ Databases
+
+| MongoDB | MySQL | PostgreSQL | SQLite | Redis | Oracle | DynamoDB | Planetscale | Supabase | MariaDB | Firebase | Cassandra | CouchDB | Elasticsearch |
+|---------|-------|------------|--------|-------|--------|----------|-------------|----------|---------|----------|-----------|---------|---------------|
+| ![](https://skillicons.dev/icons?i=mongodb) | ![](https://skillicons.dev/icons?i=mysql) | ![](https://skillicons.dev/icons?i=postgres) | ![](https://skillicons.dev/icons?i=sqlite) | ![](https://skillicons.dev/icons?i=redis) | ![](https://skillicons.dev/icons?i=oracle) | ![](https://skillicons.dev/icons?i=dynamodb) | ![](https://skillicons.dev/icons?i=planetscale) | ![](https://skillicons.dev/icons?i=supabase) | ![](https://skillicons.dev/icons?i=mariadb) | ![](https://skillicons.dev/icons?i=firebase) | ![](https://skillicons.dev/icons?i=cassandra) | ![](https://skillicons.dev/icons?i=couchdb) | ![](https://skillicons.dev/icons?i=elasticsearch) |
+
+---
+
+## ☁️ DevOps, Cloud & Hosting
+
+| AWS | GCP | Azure | Cloudflare | Vercel | Netlify | Heroku | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | GitLab CI | Nginx | Apache |
+|-----|-----|-------|------------|--------|---------|--------|--------|------------|-----------|---------|---------|---------------|-----------|-------|--------|
+| ![](https://skillicons.dev/icons?i=aws) | ![](https://skillicons.dev/icons?i=gcp) | ![](https://skillicons.dev/icons?i=azure) | ![](https://skillicons.dev/icons?i=cloudflare) | ![](https://skillicons.dev/icons?i=vercel) | ![](https://skillicons.dev/icons?i=netlify) | ![](https://skillicons.dev/icons?i=heroku) | ![](https://skillicons.dev/icons?i=docker) | ![](https://skillicons.dev/icons?i=kubernetes) | ![](https://skillicons.dev/icons?i=terraform) | ![](https://skillicons.dev/icons?i=ansible) | ![](https://skillicons.dev/icons?i=jenkins) | ![](https://skillicons.dev/icons?i=githubactions) | ![](https://skillicons.dev/icons?i=gitlab) | ![](https://skillicons.dev/icons?i=nginx) | ![](https://skillicons.dev/icons?i=apache) |
+
+---
+
+## 🔗 Version Control & Tools
+
+| Git | GitHub | GitLab | Bitbucket | SVN | Mercurial |
+|-----|--------|--------|-----------|-----|-----------|
+| ![](https://skillicons.dev/icons?i=git) | ![](https://skillicons.dev/icons?i=github) | ![](https://skillicons.dev/icons?i=gitlab) | ![](https://skillicons.dev/icons?i=bitbucket) | ![](https://skillicons.dev/icons?i=svn) | ![](https://skillicons.dev/icons?i=mercurial) |
+
+---
+
+## 💻 Editors & IDEs
+
+| VSCode | Vim | Emacs | Sublime | Atom | IntelliJ | PyCharm | Android Studio | Xcode | Eclipse | NetBeans |
+|--------|-----|-------|---------|------|----------|---------|----------------|-------|---------|----------|
+| ![](https://skillicons.dev/icons?i=vscode) | ![](https://skillicons.dev/icons?i=vim) | ![](https://skillicons.dev/icons?i=emacs) | ![](https://skillicons.dev/icons?i=sublime) | ![](https://skillicons.dev/icons?i=atom) | ![](https://skillicons.dev/icons?i=idea) | ![](https://skillicons.dev/icons?i=pycharm) | ![](https://skillicons.dev/icons?i=androidstudio) | ![](https://skillicons.dev/icons?i=xcode) | ![](https://skillicons.dev/icons?i=eclipse) | ![](https://skillicons.dev/icons?i=netbeans) |
+
+---
+
+## 🎨 Design & Productivity
+
+| Figma | XD | Photoshop | Illustrator | After Effects | Blender | Canva | Sketch | Notion | Obsidian |
+|-------|----|-----------|-------------|---------------|---------|-------|--------|--------|----------|
+| ![](https://skillicons.dev/icons?i=figma) | ![](https://skillicons.dev/icons?i=xd) | ![](https://skillicons.dev/icons?i=photoshop) | ![](https://skillicons.dev/icons?i=illustrator) | ![](https://skillicons.dev/icons?i=aftereffects) | ![](https://skillicons.dev/icons?i=blender) | ![](https://skillicons.dev/icons?i=canva) | ![](https://skillicons.dev/icons?i=sketch) | ![](https://skillicons.dev/icons?i=notion) | ![](https://skillicons.dev/icons?i=obsidian) |
+
+---
+
+## 📱 Mobile & Frameworks
+
+| Flutter | Dart | React Native | Swift | Kotlin | Android | iOS |
+|---------|------|--------------|-------|--------|---------|-----|
+| ![](https://skillicons.dev/icons?i=flutter) | ![](https://skillicons.dev/icons?i=dart) | ![](https://skillicons.dev/icons?i=react) | ![](https://skillicons.dev/icons?i=swift) | ![](https://skillicons.dev/icons?i=kotlin) | ![](https://skillicons.dev/icons?i=android) | ![](https://skillicons.dev/icons?i=ios) |
+
+---
+
+## 🤖 AI, ML & Data Science
+
+| TensorFlow | PyTorch | Keras | OpenCV | Pandas | NumPy | Matplotlib | SciPy | Jupyter | R |
+|------------|---------|-------|--------|--------|-------|------------|-------|---------|---|
+| ![](https://skillicons.dev/icons?i=tensorflow) | ![](https://skillicons.dev/icons?i=pytorch) | ![](https://skillicons.dev/icons?i=keras) | ![](https://skillicons.dev/icons?i=opencv) | ![](https://skillicons.dev/icons?i=pandas) | ![](https://skillicons.dev/icons?i=numpy) | ![](https://skillicons.dev/icons?i=matplotlib) | ![](https://skillicons.dev/icons?i=scipy) | ![](https://skillicons.dev/icons?i=jupyter) | ![](https://skillicons.dev/icons?i=r) |
+
+---
+
+## 🧪 Testing & QA
+
+| Jest | Mocha | Jasmine | Cypress | Selenium | Puppeteer | Playwright | Vitest |
+|------|-------|---------|---------|----------|-----------|------------|--------|
+| ![](https://skillicons.dev/icons?i=jest) | ![](https://skillicons.dev/icons?i=mocha) | ![](https://skillicons.dev/icons?i=jasmine) | ![](https://skillicons.dev/icons?i=cypress) | ![](https://skillicons.dev/icons?i=selenium) | ![](https://skillicons.dev/icons?i=puppeteer) | ![](https://skillicons.dev/icons?i=playwright) | ![](https://skillicons.dev/icons?i=vitest) |
+
+---
+
+## ⚡️ Other Tools, Platforms & Cool Tech
+
+| Raspberry Pi | Arduino | ROS | Unity | Unreal | Blender | WebAssembly | Vite | Babel | Webpack | Parcel | Yarn | PNPM | NPM |
+|--------------|---------|-----|-------|--------|---------|-------------|------|-------|---------|--------|------|------|-----|
+| ![](https://skillicons.dev/icons?i=raspberrypi) | ![](https://skillicons.dev/icons?i=arduino) | ![](https://skillicons.dev/icons?i=ros) | ![](https://skillicons.dev/icons?i=unity) | ![](https://skillicons.dev/icons?i=unreal) | ![](https://skillicons.dev/icons?i=blender) | ![](https://skillicons.dev/icons?i=wasm) | ![](https://skillicons.dev/icons?i=vite) | ![](https://skillicons.dev/icons?i=babel) | ![](https://skillicons.dev/icons?i=webpack) | ![](https://skillicons.dev/icons?i=parcel) | ![](https://skillicons.dev/icons?i=yarn) | ![](https://skillicons.dev/icons?i=pnpm) | ![](https://skillicons.dev/icons?i=npm) |
+
+---
+
+> Want more? Visit [skillicons.dev](https://skillicons.dev/) for even more icons!
