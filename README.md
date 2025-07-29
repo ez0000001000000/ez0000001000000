@@ -140,34 +140,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ez0000001000000&theme=darkhub&column=7" />
 </p>
 
-
----
-
-## 🤝 Open for Collaboration
-
-- **PRs:** Welcome! Check [`good first issue`s](https://github.com/ez0000001000000/ez0000001000000/issues)
-- **Contact:** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ez0000001000000@gmail.com) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ez0000001000000) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ez0000001000000)
-- **Sponsor/Support:** [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ez0000001000000)
-- **Telegram/Chat:** [![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/ez0000001000000) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/yourdiscord)
-
----
-
-## 🔍 Quicklinks
-
-- 🏰 [Main Website/Portfolio](https://ez0000001000000.github.io)
-- 🔥 [All Public Repos](https://github.com/ez0000001000000?tab=repositories)
-- 💙 [Favorite starred projects](https://github.com/ez0000001000000?tab=stars)
-- 🌟 [Trending Follows](https://github.com/ez0000001000000?tab=following)
-- 📝 [My Gists/Snippets](https://gist.github.com/ez0000001000000)
-
----
-
-## 👑 Philosophy
-
-> "Build more. Talk less. Ship better. Automate everything. Always be automating."
-
----
-
-<p align="center"><b>Thanks for scrolling, space traveler!</b>  
-  <br><i>Let’s hack the multiverse together 🚀</i>
-</p>
