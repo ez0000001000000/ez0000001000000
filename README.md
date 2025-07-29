@@ -24,22 +24,4 @@
 
 ---
 
-<!-- Table of Contents -->
-<details open>
-  <summary><h2>📚 Table of Contents</h2></summary>
-  <ol>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#github-stats">GitHub Stats</a></li>
-    <li><a href="#projects--showcase">Projects & Showcase</a></li>
-    <li><a href="#open-source-contributions">Open Source Contributions</a></li>
-    <li><a href="#community--socials">Community & Socials</a></li>
-    <li><a href="#memes--fun-corner">Memes & Fun Corner</a></li>
-    <li><a href="#resources--cool-stuff">Resources & Cool Stuff</a></li>
-    <li><a href="#contact-me">Contact Me</a></li>
-    <li><a href="#support">Support</a></li>
-  </ol>
-</details>
-
----
 
