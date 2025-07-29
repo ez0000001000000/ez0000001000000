@@ -118,25 +118,3 @@
 
 ---
 
-## 📈 Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ez0000001000000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ez0000001000000&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ez0000001000000&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## ☁️ Coding Clouds & Metrics
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ez0000001000000&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ez0000001000000&theme=darkhub&column=7" />
-</p>
-
