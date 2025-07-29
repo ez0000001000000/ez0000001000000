@@ -69,7 +69,7 @@
 </p>
 
 <details>
-<summary>🔎 Even More (hidden gems, legacy, rare tools) – click!</summary>
+<summary>🔎 Even More ( – click!</summary>
   <p align="center">
     <!-- More niche/legacy/fun icons, split for length -->
     <img src="https://skillicons.dev/icons?i=mysql2,yarn,pnpm,redux,remix,remotion,astro,babel,eslint,prettier,pug,haml,handlebars,d3,chartjs,c,cpp,matlab,stata,stata,stata,stata,stata,stata" />
