@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=ez0000001000000's%20Cosmic%20Repository&fontSize=48&fontAlignY=40&desc=Read%20Below%20for%20the%20ULTIMATE%20README!&descAlignY=65&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=ez0000001000000's%20Amazing%20Repository&fontSize=48&fontAlignY=40&desc=Read%20Below%20for%20the%20ULTIMATE%20README!&descAlignY=65&descAlign=60" />
 </p>
 
 <!-- Animated Typing SVG -->
