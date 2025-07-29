@@ -41,7 +41,7 @@
 
 <p align="center">
 <!-- Frontend: -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,,less,stylus,tailwind,bootstrap,materialui,react,redux,nextjs,vue,nuxtjs,svelte,solidjs,astro,angular,ember,preact,webpack,vite,parcel,storybook" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,less,stylus,tailwind,bootstrap,materialui,react,redux,nextjs,vue,nuxtjs,svelte,solidjs,astro,angular,ember,preact,webpack,vite,parcel,storybook" />
 <!-- Backend: -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,php,laravel,symfony,python,django,flask,fastapi,java,spring,scala,go,rust,ruby,rails,deno,bun,babel,elixir,kotlin,cs,net" />
 <!-- Mobile & Desktop: -->
