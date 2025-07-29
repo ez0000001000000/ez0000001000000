@@ -95,26 +95,8 @@
 
 | Repo      | Description | Stars | Tech |
 |-----------|-------------|-------|------|
-| [`/hyper-galactic`](https://github.com/ez0000001000000/hyper-galactic) | Supercharged fullstack SaaS starter w/ everything | ![GitHub Repo stars](https://img.shields.io/github/stars/ez0000001000000/hyper-galactic?style=social) | ![](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,docker,prisma,postgres) |
-| [`/llm-toolset`](https://github.com/ez0000001000000/llm-toolset) | Modular Python toolkit for LLM/AI experiments | ![GitHub Repo stars](https://img.shields.io/github/stars/ez0000001000000/llm-toolset?style=social) | ![](https://skillicons.dev/icons?i=python,fastapi,pytorch,openai,aws) |
-| [`/infra-magic`](https://github.com/ez0000001000000/infra-magic) | Infrastructure as Code with BOMB configs | ![GitHub Repo stars](https://img.shields.io/github/stars/ez0000001000000/infra-magic?style=social) | ![](https://skillicons.dev/icons?i=terraform,aws,kubernetes,gcp,azure) |
-| [`/svelte-supreme`](https://github.com/ez0000001000000/svelte-supreme) | SvelteKit, Tailwind, Supabase starter, blazingly fast | ![GitHub Repo stars](https://img.shields.io/github/stars/ez0000001000000/svelte-supreme?style=social) | ![](https://skillicons.dev/icons?i=svelte,tailwind,supabase,ts) |
-| [`/dotfiles`](https://github.com/ez0000001000000/dotfiles) | My cross-platform terminal & dev env | ![GitHub Repo stars](https://img.shields.io/github/stars/ez0000001000000/dotfiles?style=social) | ![](https://skillicons.dev/icons?i=bash,vim,linux) |
+| [`/Nola-Ideas`](https://github.com/ez0000001000000/Nola-Ideas) | Supercharged Idea Planner with markdown and Gemini | ![GitHub Repo stars] | ![](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,docker,prisma,postgres,neon,) |
 
 ---
 
-## 💡 Latest Repos
-
-<!-- GitHub Dynamic Repos Widget (change theme as you like) -->
-<p align="center">
-  <a href="https://github.com/ez0000001000000?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ez0000001000000&repo=hyper-galactic&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ez0000001000000&repo=llm-toolset&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ez0000001000000&repo=infra-magic&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ez0000001000000&repo=svelte-supreme&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ez0000001000000&repo=dotfiles&theme=radical" />
-  </a>
-</p>
-
----
 
