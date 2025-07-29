@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ez0000001000000's%20Ultimate%20Repo%20Hub!&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Most%20Epic%20README%20Ever!&descAlignY=65&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ez0000001000000's%20Ultimate%20Repo%20&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Most%20Epic%20README%20Ever!&descAlignY=65&descAlign=62" />
 </p>
 
 <!-- Animated Typing SVG -->
